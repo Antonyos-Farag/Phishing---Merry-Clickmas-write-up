@@ -1,0 +1,41 @@
+# 🪨 Things we will not be shipping
+
+# Coal
+coal/
+*.lump
+*.lump.bak
+
+# Naughty lists (we do not keep naughty lists; this is aspirational)
+naughty-list.txt
+!naughty-list.example.txt
+
+# Secrets that a tired elf might try to commit at 02:00
+*.env
+.env*
+!.env.example
+*.pem
+*.key
+credentials*.txt
+prod-secrets*
+smtp-passwords*
+
+# Reuse residue
+password.txt
+passwords.txt
+same-password-again.md
+passwords-i-promise-not-to-reuse.txt
+
+# Local lab junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+
+# Screenshots that still contain the current session's IPs
+screenshots/session-*.png
+tmp/
+*.log
+
+# Santa's browser history
+history/santa/*
