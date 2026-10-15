@@ -1,0 +1,43 @@
+# The Merry Clickmas License (MCL) · version 2.5.1
+
+*"Please re-authenticate to continue reading this licence."*
+
+Copyright © the elves, Marta, and one extremely tired on-call elf.
+
+---
+
+## Preamble (non-binding, festive)
+
+This licence exists because a write-up about phishing deserves a licence written by someone who has been phished. Permission is hereby granted, free of charge, to any elf, human, or sufficiently sentient reindeer obtaining a copy of this repository, to read it, share it, print it, frame it, put it in a training deck, and quote it at length — subject to the following conditions.
+
+## Conditions
+
+1. **Attribution.** Keep the copyright notice and the original source with any substantial copy. Pretending you wrote this is bad form, and also exactly the kind of identity confusion this repo warns about.
+2. **Not for evil.** You may not use this material, or anything you learn from it, to phish, trick, defraud, or access systems you don't have written permission to test. This is the entire licence in one sentence. Everything else is decoration.
+3. **Safety note survives.** If you redistribute this write-up, the lab-safety note and the "never enter a real password into a training page" warning must stay somewhere visible. Don't quietly strip the boring-but-load-bearing parts — that's how a training repo becomes a workshop for someone else's incident.
+4. **Keep the answers spoiler-tagged.** People are still doing the room in December. Be cool.
+5. **No warranty.** The material is provided "as is", without warranty of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and *whether the IP address in the screenshot still belongs to the room*.
+
+## Explicit permissions (enjoy)
+
+- Fork, remix, and rewrite the jokes. The jokes are load-bearing and also free.
+- Use the structure as a template for your own write-ups.
+- Translate it. Keep the safety note intact in translation.
+- Present it at a brown-bag session, especially if you bring biscuits, which the on-call elf has been requesting since 02:14.
+
+## Prohibited uses (please stop)
+
+- Real phishing. Real credential capture. Real anything aimed at a real human.
+- Impersonating this project or its authors.
+- Claiming the room's fictional password is a real credential. It isn't. It never was. It is a museum piece.
+- Using the licence language "please re-authenticate" in anything you send to another person. Ever. We have been clear about this.
+
+## Legal bit (the actually-binding part)
+
+- **Write-up text, screenshots and documentation** in this repository are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)** — you may share and adapt with attribution. <https://creativecommons.org/licenses/by/4.0/>
+- **Any scripts, Makefiles, or code** in this repository are licensed under the **MIT License** — use, modify, and distribute freely, with attribution.
+- Where the two conflict on a given file, the more permissive interpretation applies, because the alternative is a group of elves arguing about licences at 02:30 and nobody wants that.
+
+---
+
+*Signed with a candy cane. Which, legally, counts as a signature in Lapland.*
